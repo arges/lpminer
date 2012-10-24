@@ -12,3 +12,6 @@ http://www.gnu.org/licenses/gpl-2.0.html
 - Load bd.RData.
 - Then use explore.R or analysis.R.
 
+* Visualizations
+
+- The web directory contains visualizations of the data.
